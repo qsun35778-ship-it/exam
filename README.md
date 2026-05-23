@@ -26,5 +26,6 @@ cd squashfs-root
 4. 开系统代理
 
 ---
+https://naiun.adfgawidhioawjd.site/api/v1/client/subscribe?token=12673c013aee9d551eb1194da890cb94
 
 然后打开网页 AI

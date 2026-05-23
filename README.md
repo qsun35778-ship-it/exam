@@ -28,4 +28,5 @@ cd squashfs-root
 ---
 https://naiun.adfgawidhioawjd.site/api/v1/client/subscribe?token=12673c013aee9d551eb1194da890cb94
 
+https://naiun.adfgawidhioawjd.site/api/v1/client/subscribe?token=12673c013aee9d551eb1194da890cb94
 然后打开网页 AI

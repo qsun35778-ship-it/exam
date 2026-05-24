@@ -38,3 +38,5 @@ https://b3.342242.icu/api/v1/client/subscribe?token=6043402282b557cc361003622901
 sk-6d6db6b0e2aa44cb91a94af559afc3a2
 
 APPIMAGE_EXTRACT_AND_RUN=1 ./FIClash-0.8.92-linux-amd64.AppImage
+
+https://b3.342242.icu/api/v1/client/subscribe?token=6043402282b557cc3610036229014d65

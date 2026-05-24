@@ -34,3 +34,5 @@ https://naiun.adfgawidhioawjd.site/api/v1/client/subscribe?token=12673c013aee9d5
 或者可以https://github.com/chen08209/FlClash/releases直接下载，这机器可以直接访问GitHub，还挺快的
 
 sk-6d6db6b0e2aa44cb91a94af559afc3a2
+
+APPIMAGE_EXTRACT_AND_RUN=1 ./FIClash-0.8.92-linux-amd64.AppImage
